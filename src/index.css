@@ -48,6 +48,10 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .game-info li {
+    margin-top: 10px;
+  }
   
 
   .but {
@@ -59,5 +63,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    margin-top: 50px;
+    margin-left: 150px;
   }
   
